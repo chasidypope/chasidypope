@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @chasidypope
-- 👀 I’m interested in gaming!
-- 🌱 I’m currently learning software engineering things!
 - ⚡ Fun fact: I have a cat!
 
 <!---
